@@ -1,0 +1,24 @@
+@import 'vars';
+
+.notfound-container {
+    align-content   : center;
+    background-color: aliceblue;
+    display         : flex;
+    flex-direction  : column;
+    height          : 100%;
+    text-align      : center;
+    width           : 100%;
+}
+
+.notfound-titulo {
+    color        : aquamarine;
+    font-size    : 20rem;
+    font-weight  : bold;
+    margin-bottom: 5px;
+}
+
+.notfound-subtitulo {
+    color    : darkblue;
+    font-size: 2rem;
+
+}
