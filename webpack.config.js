@@ -42,7 +42,7 @@ module.exports = {
                 ]
             },
             {
-                test: /\.(png|jp(e*)g|svg|gif)$/
+                test: /\.(png|jpg|svg|gif)$/
             }
         ]
 },
